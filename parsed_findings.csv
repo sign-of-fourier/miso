@@ -1,0 +1,13 @@
+pol_key_id,source_type,finding,risk_impact,raw_text,confidence
+1,blood,elevated cholesterol,+25,Blood +25 d/t elevated cholesterol.,high
+1,APS,htn tx w/ lisinopril,,APS shows hx of htn tx w/ lisinopril.,high
+2,labs-general,wnl,,Labs wnl.,high
+2,labs-general,,preferred plus non-smoker,Tracking pp nsmkr.,medium
+3,urine,positive nicotine,smoker,"Urine positive nicotine, tracking smkr d/t labs.",high
+3,blood,wnl,,Bld wnl.,high
+3,APS,unremarkable,,APS unremarkable.,high
+4,APS,htn,standard,Tentative std d/t htn per APS.,high
+4,labs-general,wnl,,Labs wnl.,high
+4,oral swab,negative,,Oral swab negative.,high
+5,blood,elevated liver enzymes,+50,Bld +50 elevated liver enzymes.,high
+5,urine,wnl,,Ur wnl.,high
